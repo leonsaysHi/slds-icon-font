@@ -20404,7 +20404,10 @@
       },
       "embed": false,
       "showMetrics": false,
-      "showSelector": false
+      "showSelector": false,
+      "showVersion": false,
+      "cssVars": true,
+      "cssVarsFormat": "scss"
     },
     "imagePref": {
       "prefix": "icon-",
