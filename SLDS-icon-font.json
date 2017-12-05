@@ -20393,7 +20393,7 @@
     "fontPref": {
       "prefix": "sldsicon-",
       "metadata": {
-        "fontFamily": "icomoon",
+        "fontFamily": "slds",
         "majorVersion": 1,
         "minorVersion": 0
       },
@@ -20402,7 +20402,9 @@
         "baseline": 6.25,
         "whitespace": 50
       },
-      "embed": false
+      "embed": false,
+      "showMetrics": false,
+      "showSelector": false
     },
     "imagePref": {
       "prefix": "icon-",
@@ -20415,6 +20417,5 @@
     "gridSize": 16,
     "showLiga": false
   },
-  "uid": -1,
-  "time": 1512502830927
+  "uid": -1
 }
